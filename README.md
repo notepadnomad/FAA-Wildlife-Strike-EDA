@@ -3,7 +3,7 @@
 # FAA Wildlife Strike Analysis
 Wildlife strikes post a real and recurring risk to aviation safety. This project analyzes the FAA Wildlife Strike Database to explore patterns in wildlife-aircraft collisions across the United States. Using incident reports collected from airport nationwide, the analysis examines where, when, and under what conditions strikes are most likely to occur - and what effect they have on flight safety outcomes.
 
-This project is also a personal exploration of the safety outcomes for this very specific type of air incident because I do not like to fly and am looking to the powers of data analysis to understand the risks of flying and how it may just be all in my head.
+This project also serves as a personal exploration of flight safety. As someone who is uncomfortable flying, I am using this analysis as an opportunity to examine where the risks I perceive are grounded in the data. 
 
 # Data Source
 * [**Federal Aviaiton Administration Wildlife Strike Database**](https://wildlife.faa.gov/home)
